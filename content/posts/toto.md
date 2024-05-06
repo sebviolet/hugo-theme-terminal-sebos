@@ -1,12 +1,12 @@
 ---
 title: "Toto"
 date: "2024-05-06T13:43:27+02:00"
-author: ""
+author: "Mister toto"
 authorTwitter: "" #do not include @
 cover: ""
-tags: ["", ""]
-keywords: ["", ""]
-description: ""
+tags: ""
+keywords: ""
+description: "test for post"
 showFullContent: false
 readingTime: false
 hideComments: false
