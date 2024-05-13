@@ -10,7 +10,6 @@ The theme brings many useful features thanks to [all people that contributed to 
 
 ![Terminal](https://github.com/panr/hugo-theme-terminal/blob/master/images/screenshot.png?raw=true)
 
-
 ### DEMO - https://hugo-terminal.now.sh/
 
 ### ⚠️ The theme needs at least Hugo **Extended** v0.90.x.
@@ -310,7 +309,6 @@ Sounds OK? Cool, let's rock! 🤘
 ## Terminal theme user?
 
 I'd be happy to know more about you and what you are doing. If you want to share it, please make a contribution and [add your site to the list](https://github.com/panr/hugo-theme-terminal/blob/master/USERS.md)! 🤗
-
 
 ## License
 
