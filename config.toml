@@ -1,19 +1,19 @@
 baseurl = "https://sebviolet.github.io/hugo-theme-terminal-sebos/"
 languageCode = "en-us"
-##theme = "terminal"
+#theme = "terminal"
 paginate = 5
 
 [params]
   contentTypeName = "posts"
   themeColor = "orange"
-  showMenuItems = 2
+  showMenuItems = 4
   fullWidthTheme = false
   centerTheme = false
 
 [languages]
   [languages.en]
-    title = "Terminal"
-    copyright = ""
+    title = "Blog Perso"
+    copyright = "sebos"
 
     [languages.en.params]
       readOtherPosts = "Read other posts"
@@ -21,7 +21,7 @@ paginate = 5
       keywords = ""
       menuMore = "Show more"
       readMore = "Read more"
-      logoText = "Terminal"
+      logoText = "Blog Perso"
       logoHomeLink = "/"
 
     [languages.en.menu]
@@ -31,6 +31,11 @@ paginate = 5
         url = "/about"
 
       [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+        identifier = "lespirtates"
+        name = "Les Pirates"
+        url = "/lespirates"
+
+      [[languages.en.menu.main]]
+        identifier = "lesavengers"
+        name = "Les Avengers"
+        url = "/lesavengers"
