@@ -39,3 +39,8 @@ paginate = 5
         identifier = "lesavengers"
         name = "Les Avengers"
         url = "/lesavengers"
+
+      [[languages.en.menu.main]]
+        identifier = "lesvoleurs"
+        name = "Les Voleurs"
+        url = "/lesvoleurs"
