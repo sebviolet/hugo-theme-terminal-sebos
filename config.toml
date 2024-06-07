@@ -2,6 +2,7 @@ baseurl = "https://sebviolet.github.io/hugo-theme-terminal-sebos/"
 languageCode = "en-us"
 #theme = "terminal"
 paginate = 5
+disableHugoGeneratorInject = true
 
 [params]
   contentTypeName = "posts"
